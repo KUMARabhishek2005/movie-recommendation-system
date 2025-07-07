@@ -15,7 +15,10 @@ This project is designed to help users discover new movies similar to ones they 
 - ✅ **Clean GUI (optional)** version using `tkinter`
 - ✅ Works completely **offline** with a local dataset (`movies.csv`)
 
-visual of the interface 
+## visual of the interface 
+
+![Screenshot 2025-07-06 234659](https://github.com/user-attachments/assets/65448597-16e5-4d11-8265-20678fd4a808)
+
 
 
 ## 📊 How It Works
